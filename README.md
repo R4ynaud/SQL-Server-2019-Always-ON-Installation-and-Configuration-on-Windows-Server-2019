@@ -32,7 +32,7 @@
 ![image](https://user-images.githubusercontent.com/93924485/230022852-82285bb4-37c4-4fe1-9122-19f4e8bdd770.png)
 
 
-### 2-) Açılan ekranımızda iki seçeneğimiz yer almaktadır. Bunlardan birincisi olan;
+### 2-) Açılan ekranımızda iki seçeneğimiz yer almaktadır.
 
 • Role-based or feature-based insallation : Rol ve Özellik bazında ekleme kurulum yapma imkânı verir. Windows Server 2019 içerisinde sahip olduğumuz sürüme göre, içerisinde bulunan ve ihtiyacımız olan rol ve özellikleri buradan ekleyip kaldırabilmekteyiz.
 
