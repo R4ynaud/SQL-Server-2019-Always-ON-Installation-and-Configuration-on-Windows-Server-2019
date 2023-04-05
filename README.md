@@ -39,3 +39,16 @@
 • Remote Desktop Services installation: Eski zamanlarda Terminal Servis olarak anılan ve şimdi RDS (Remote Desktop Services) uzak masaüstü yapılandırmasını hızlı ve standart olarak buradan yapabilmekteyiz.
 
 • Bu nedenle biz Failover Clustering özelliğini kuracak olduğumuz için Role-based or feature-based insallation seçimini yaparak Next ile ilerliyoruz.
+
+
+### In our opened screen, we have two options:
+
+• Role-based or feature-based installation: It allows us to add and remove the required roles and features based on our version of Windows Server 2019.
+
+• Remote Desktop Services installation: We can quickly and standardly configure the Remote Desktop Services (formerly known as Terminal Services) from here.
+
+• Therefore, since we will install the Failover Clustering feature, we select the Role-based or feature-based installation option and proceed with Next.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230023862-8431f9ee-c40c-43fe-bb17-254fc1de2043.png)
+
