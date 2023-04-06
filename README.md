@@ -168,8 +168,14 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230357748-bc549e7a-5f92-46d0-9910-9c012ff9133a.png)
 
 
+### 16-) Prerequisites Check kısmında domain kurulabilmesi için bir kontrol işlemi yapılmaktadır. Resimde görüldüğü üzere işlem başarılı olmuştur.”Install” ile kurulumu başlatıyoruz.Yükleme işlemi başladı.Belli bir süre sonra yükleme tamamlanacak ve sistem kendini otomatik olarak yeniden başlatacak.Kurulum sunucu özelliklerine göre 15 dakika gibi bir zaman alabilir.
+###      In the Prerequisites Check section, a verification process is performed to ensure that the domain can be installed. As seen in the image, the process has been successful. We will start the installation by clicking "Install". The installation process has started. After a while, the installation will be completed, and the system will automatically restart itself. Depending on the server specifications, the installation may take around 15 minutes.
 
 
+![image](https://user-images.githubusercontent.com/93924485/230358398-054cfe8e-3f9d-457a-9d04-c68f4e7caf09.png)
+  
+
+### 17-) 
 
 
 
