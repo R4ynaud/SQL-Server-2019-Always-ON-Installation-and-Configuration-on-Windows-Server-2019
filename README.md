@@ -154,8 +154,18 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230356958-5deec787-a72e-4b11-9a38-b3a732febb7c.png)
 
 
+### 14-) Varsayılan ayarlar ile “NEXT” seçeneğini seçerek devam ediyoruz.
+###      We will continue by selecting the "NEXT" option with the default settings.
 
 
+![image](https://user-images.githubusercontent.com/93924485/230357362-99abba30-6933-4cf4-94b6-1b2cb86f7296.png)
+
+
+### 15-) Review Options kısmında isteğe bağlı tüm ayarlarımızı powershell scripti olarak görüp farklı ortamlara export edebiliriz.“NEXT” ile devam ediyoruz.
+###      In the Review Options section, we can see all our optional settings as a PowerShell script and export them to different environments. We will continue by clicking "NEXT".
+
+
+![image](https://user-images.githubusercontent.com/93924485/230357748-bc549e7a-5f92-46d0-9910-9c012ff9133a.png)
 
 
 
