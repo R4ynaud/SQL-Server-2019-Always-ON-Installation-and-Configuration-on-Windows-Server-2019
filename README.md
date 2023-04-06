@@ -256,11 +256,17 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230377480-1a71312d-74af-46c0-9b28-92c33474c967.png)
 
 
+![image](https://user-images.githubusercontent.com/93924485/230377827-82e9acbd-6669-48da-a246-5b6e414f876c.png)
 
 
+### 24-) Run all tests (recommended) seçeneğini seçip tüm testlerin gerçekleşmesini sağlaman için Next ile sonraki adıma ilerleyelim.
+###      Select the "Run all tests (recommended)" option and click Next to proceed to the next step to ensure that all tests are performed.
 
 
+![image](https://user-images.githubusercontent.com/93924485/230378125-22a5beb9-5d0d-4601-841b-c1311f981b86.png)
+ 
 
+![image](https://user-images.githubusercontent.com/93924485/230378218-d0a2c411-0cac-4157-ace9-a232d2e7cda9.png)
 
 
 
