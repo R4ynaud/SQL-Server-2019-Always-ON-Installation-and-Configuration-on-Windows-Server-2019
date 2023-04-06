@@ -140,6 +140,13 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230355953-08dfc05f-a8f3-415f-b59a-3268414e394a.png)
 
 
+### 12-) DNS Options kısmında bir uyarı çıkıyor.Bu uyarı herhangi bir problem teşkil etmektedir.Yapımızda bir DNS Server olmadığı  ve DNS Zone üzerinde herhangi bir Delegasyon ataması yapılmadığı için vermektedir.“NEXT” ile devam ediyorum.
+###      There is a warning in the DNS Options section. This warning does not pose any problems. It is displayed because there is no DNS Server in our structure and no delegation is assigned on the DNS Zone. I will proceed by clicking "NEXT".
+
+
+![image](https://user-images.githubusercontent.com/93924485/230356397-a6be4510-89b1-483d-a014-5eccc2cfc2a1.png)
+
+
 
 
 
