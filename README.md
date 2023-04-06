@@ -269,7 +269,8 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230378218-d0a2c411-0cac-4157-ace9-a232d2e7cda9.png)
 
 
+### 25-) Test işlemlerimiz başladı sistemdeki sorunsuzluk ve donanım özelliklerine göre kısa bir zaman dilimi bu işlemler sürecektir. 
+###      Our testing process has started, and it will take a short period of time, depending on the system's stability and hardware specifications.
 
 
-
-
+![image](https://user-images.githubusercontent.com/93924485/230378841-fef585ef-e6c8-48a6-814f-f0c758cc1759.png)
