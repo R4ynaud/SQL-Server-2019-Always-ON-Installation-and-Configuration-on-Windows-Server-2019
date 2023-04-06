@@ -52,3 +52,26 @@
 
 ![image](https://user-images.githubusercontent.com/93924485/230023862-8431f9ee-c40c-43fe-bb17-254fc1de2043.png)
 
+
+### 3-) Biz bir rol kurmayacağımız için özellik ekleme ekranı olan bir sonraki ekrana Next ile ilerliyoruz.
+###     We will not create a role, so we proceed to the next screen with an "Next" button which has the feature addition screen. 
+
+
+![image](https://user-images.githubusercontent.com/93924485/230314059-64198d29-0b9d-4ea5-b6c1-f11624ef1941.png)
+
+
+### 4-) Özellik ekleme ekranında Failover Clustering özelliğini eklemek için seçelim.
+###     Let's select the Failover Clustering feature to add on the feature addition screen.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230314452-d2253253-16c3-403b-9010-7d6488cd618e.png)
+
+
+### 5-) Bu özellik ekleme işlemi sırasında yeniden başlatma gerekir ise bunun otomatik olarak gerçekleşmesi için Restart the destination server automatically if requred seçimini işaretleyebiliriz. Ben gerekmesi durumunda bunu manuel olarak yapacağım için kurulum adımlarını başlatıp tamamlamak için Install butonuna tıklıyorum.
+###     We can select "Restart the destination server automatically if required" option if a restart is needed during the feature addition process to be done automatically. However, if you prefer to do this manually, you can start and complete the installation steps by clicking on the "Install" button.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230314919-0976ac8d-6bde-42a3-987a-950abb21c33a.png)
+
+
+
