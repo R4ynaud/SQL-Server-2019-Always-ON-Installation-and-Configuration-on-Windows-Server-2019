@@ -222,4 +222,11 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230374368-2c4216c6-ba27-423c-81a0-4e9cf4e595ca.png)
 
 
+### 20-) Konsolumuz açıldı. Bu sunucumuz üzerinde de buraya kadar olan işlemlerimiz tamamlandı. Şimdi cluster kurulumuna geçmeden bir test işlemi yapabiliriz. Bu adım için Validate Configuration… linkine tıklayabiliriz.
+###      Our console has been opened. We have completed all the necessary steps up to this point on this server. Now, before proceeding with the cluster installation, we can perform a test operation. For this step, we can click on the "Validate Configuration" link.
+
+
+
+
+
 
