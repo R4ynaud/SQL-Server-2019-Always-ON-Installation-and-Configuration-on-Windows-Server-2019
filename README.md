@@ -214,6 +214,11 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230373949-daaa562d-e257-4994-a0b5-6c2bc1695338.png)
 
 
+• Sorunsuz bir şekilde Node 2 & Node 3 sunucumuzu domaine'e aldık kontrol etmek için Node 1 de " Active Directory Users and Computers " alanından " Computers " sekmesine bakıyoruz.
+• To check that we have successfully added Node 2 and Node 3 servers to the domain, we are looking at the "Computers" tab in the "Active Directory Users and Computers" section on Node 1.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230374368-2c4216c6-ba27-423c-81a0-4e9cf4e595ca.png)
 
 
 
