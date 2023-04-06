@@ -116,3 +116,40 @@
 ![image](https://user-images.githubusercontent.com/93924485/230350058-0d86690f-50ec-435f-bcae-4c7c47afb148.png)
 
 
+### 9-) Biraz bekledikten sonra kurulum sorunsuz bir şekilde tamamlandı.Bu kısımda “Promote this server to a a domain controller” seçeneği seçip ikinci aşama geçebilirsiniz ve ya Server Manager’i açıp bayrak işareti olan yerden aynı kısma ulaşabilirsiniz.
+###     After waiting for a while, the installation was completed successfully. In this step, you can select the "Promote this server to a domain controller" option and proceed to the second step, or you can open the Server Manager and navigate to the same section with the flag icon.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230354809-a0105db0-5f1a-4e4e-a7d1-b8b271b5d337.png)
+
+
+### 10-) Add a new forest: Yeni bir Domain yapısı kurulumu yapılır.
+Biz ilk defa ortamımıza bir domain yapısı kuracağımız için “Add a new forest” seçeneği ile devam ediyoruz. Aynı ekranda root domain ismi belirlememiz gerekmektedir. Domain adı belirlerken dikkat etmemiz gereken bir kaç husus vardır. Domain adından sonra .(NOKTA)koyularak bir Suffix belirtmemiz gerekmektedir.local,com vb. gibi aksi halde ilerleyemeyiz. Genelde .local şeklinde kurulmaktadır.
+###     Add a new forest: This is used to set up a new domain structure.
+
+As we are setting up a domain structure for the first time, we will proceed with the "Add a new forest" option. In the same screen, we need to specify the root domain name. There are a few things we need to consider when choosing a domain name. We need to add a suffix by putting a period (.) after the domain name, such as .local, .com, etc. Otherwise, we cannot proceed. Generally, it is set up as .local.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230355355-3a4d5ef0-8f2d-43ae-a94e-f5da6bbd9316.png)
+
+
+### 11-) DSRM şifresi belirleyelim.
+###      Let's set the DSRM (Directory Services Restore Mode) password.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230355953-08dfc05f-a8f3-415f-b59a-3268414e394a.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
