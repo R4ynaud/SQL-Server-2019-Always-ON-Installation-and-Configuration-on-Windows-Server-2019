@@ -74,4 +74,17 @@
 ![image](https://user-images.githubusercontent.com/93924485/230314919-0976ac8d-6bde-42a3-987a-950abb21c33a.png)
 
 
+### 6-) Failover Cluster Manager konsolumuzu açabiliriz.
+###     Sure, we can open the Failover Cluster Manager console.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230316080-db9d30ac-6fa0-4102-a9a8-ce408927dfb3.png)
+
+
+### 7-) Konsolumuz açıldı. Bu sunucumuz üzerinde buraya kadar olan işlemlerimiz tamamlandı. Aynı işlemleri ikinci sunucumuz üzerinde gerçekleştireceğiz.
+###     Great! The console is now open. We have completed the necessary steps on this server. We can now proceed to perform the same steps on our second server.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230316504-5b7cafe3-7d5b-44e8-808c-5cf0a6f99abb.png)
+
 
