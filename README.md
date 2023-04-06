@@ -211,9 +211,6 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230373515-fb2b2707-9038-4360-9067-957ed92ff5f1.png)
 
 
-![image](https://user-images.githubusercontent.com/93924485/230373800-ee5a4fb4-0034-4468-8913-8359d888cbce.png)
-
-
 ![image](https://user-images.githubusercontent.com/93924485/230373949-daaa562d-e257-4994-a0b5-6c2bc1695338.png)
 
 
