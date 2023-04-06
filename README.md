@@ -88,3 +88,22 @@
 ![image](https://user-images.githubusercontent.com/93924485/230316504-5b7cafe3-7d5b-44e8-808c-5cf0a6f99abb.png)
 
 
+### 8-) Cluster kurulumuna geçmeden önce tüm sunucularda Active Directory Domain Services kurulumu yapmamız gerekiyor, bunun için aşağıdaki adımları uygulayabilirsiniz. 
+###     Before proceeding with the cluster installation, we need to install Active Directory Domain Services on all servers. You can follow the steps below for this.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230349109-c569340b-3547-4379-bea9-393a670a7654.png)
+
+
+![image](https://user-images.githubusercontent.com/93924485/230349195-c09e5283-a68a-4719-a0f9-07579abce9fe.png)
+
+
+![image](https://user-images.githubusercontent.com/93924485/230349250-e8d94379-bc64-426d-9d37-727bdc05b926.png)
+
+
+![image](https://user-images.githubusercontent.com/93924485/230349424-83cc46d0-5abc-4120-8973-334035e0bd12.png)
+
+
+
+
+
