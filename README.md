@@ -182,7 +182,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230360431-aaf6ea5a-59e9-4a9f-b8bd-5cce16634854.png)
 
 
-### 18-) Node 1 isimli sunucuda kurduğumuz doamine Node 2 & Node 3 sunucularını dahil edebilmek için Node 1 sunucusunun ip adresinin Node 2 & Node 3 sunucularının DNS alanına yazmamız gerekmektedir.
+### 18-) Node 1 isimli sunucuda kurduğumuz domain'e Node 2 & Node 3 sunucularını dahil edebilmek için Node 1 sunucusunun ip adresinin Node 2 & Node 3 sunucularının DNS alanına yazmamız gerekmektedir.
 ###      We need to add the IP address of Node 1 server to the DNS area of Node 2 & Node 3 servers in order to be able to join them to the domain installed on Node 1.
 
 
