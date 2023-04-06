@@ -284,6 +284,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 
 
 • Testlerimizin sorunsuz olduğunu görüyoruz.
+
 • I'm glad to hear that the tests have been successful without any issues.
 
 
