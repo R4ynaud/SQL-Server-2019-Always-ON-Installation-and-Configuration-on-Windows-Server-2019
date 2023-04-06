@@ -189,8 +189,24 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230369992-3c7f443f-96b8-4b02-8052-5dea88a5990a.png)
 
 
+### 19-) Aşağıdaki adımları izleyerek Node 2 & Node 3 sunucuları " Raynaud.local " adlı domaine alıyoruz.
+###      We are adding Node 2 and Node 3 servers to the domain named "Raynaud.local" by following the steps below.
 
 
+![image](https://user-images.githubusercontent.com/93924485/230372682-e0891cca-ce53-48e8-bac8-24089b4d24a2.png)
+
+
+![image](https://user-images.githubusercontent.com/93924485/230372748-f53b5860-8fa9-4d95-bfc5-b66417d97fe3.png)
+
+
+![image](https://user-images.githubusercontent.com/93924485/230372797-fba8668f-832a-49ed-8b67-8ee29bb08a1a.png)
+
+
+![image](https://user-images.githubusercontent.com/93924485/230372899-02bfae53-c43d-4976-b699-32b15ff6d1fa.png)
+
+
+
+![image](https://user-images.githubusercontent.com/93924485/230371729-58694ad3-f6be-45f6-b329-d386d9457977.png)
 
 
 
