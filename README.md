@@ -226,6 +226,43 @@ As we are setting up a domain structure for the first time, we will proceed with
 ###      Our console has been opened. We have completed all the necessary steps up to this point on this server. Now, before proceeding with the cluster installation, we can perform a test operation. For this step, we can click on the "Validate Configuration" link.
 
 
+![image](https://user-images.githubusercontent.com/93924485/230376406-86fe4b91-a371-4876-b3c8-521a2240fbff.png)
+
+
+![image](https://user-images.githubusercontent.com/93924485/230376479-81e61365-817e-400e-bafb-bcd35ae9ea24.png)
+
+
+### 21-) Sihirbaz ekranını Next ile geçelim.
+###      Let's proceed to the next screen of the wizard by clicking on "Next".
+
+
+![image](https://user-images.githubusercontent.com/93924485/230376703-91c7bd3a-ebbd-4932-822b-528b942754c6.png)
+
+
+### 22-) Test işlemini yapacak sunucuları belirlemek için Browse… butonuna tıklayalım.
+###      Click on the Browse... button to select the servers that will perform the test operation.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230377036-f31208fd-9c83-4724-b9e0-45fedaf38947.png)
+
+
+### 23-) Node 2 & Node 3 sunucularını bulduktan sonra OK butonuna tıklayalım.
+###      After finding Node 2 & Node 3 servers, click on the OK button.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230377391-68c4b84a-2960-414a-82d9-a2bf84764cd0.png)
+
+
+![image](https://user-images.githubusercontent.com/93924485/230377480-1a71312d-74af-46c0-9b28-92c33474c967.png)
+
+
+
+
+
+
+
+
+
 
 
 
