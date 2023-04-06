@@ -175,8 +175,11 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230358398-054cfe8e-3f9d-457a-9d04-c68f4e7caf09.png)
   
 
-### 17-) 
+### 17-) Kurulum tamamlandıktan sonra Domain and Computers kısmını kontrol edelim.
+###      After the installation is completed, let's check the Domain and Computers section.
 
+
+![image](https://user-images.githubusercontent.com/93924485/230360431-aaf6ea5a-59e9-4a9f-b8bd-5cce16634854.png)
 
 
 
