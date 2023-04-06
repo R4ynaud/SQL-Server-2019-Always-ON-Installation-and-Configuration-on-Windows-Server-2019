@@ -274,3 +274,17 @@ As we are setting up a domain structure for the first time, we will proceed with
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230378841-fef585ef-e6c8-48a6-814f-f0c758cc1759.png)
+
+
+### 26-) Birkaç uyarı ile test işlemimiz tamamlandı. View Report… ile rapora göz atabilir ve sonrasında Finish ile test işlemimizi tamamlayabiliriz.
+###      Our testing process has been completed with a few warnings. You can check the report by clicking on "View Report..." and then complete the testing process by clicking on "Finish".
+
+
+![image](https://user-images.githubusercontent.com/93924485/230380275-8631a50d-ec1e-4eb2-a28b-43ad95245146.png)
+
+
+• Testlerimizin sorunsuz olduğunu görüyoruz.
+• I'm glad to hear that the tests have been successful without any issues.
+
+
+
