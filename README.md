@@ -147,6 +147,11 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230356397-a6be4510-89b1-483d-a014-5eccc2cfc2a1.png)
 
 
+### 13-) Addition Options kısmında domain yapısı için otomatik olarak oluşan NETBIOS name ismini görüyoruz.(NETBIOS yerel ağ üzerindeki farklı bilgisayarların birbiriyle iletişim kurmasını sağlayan bir sistemdir.) “NEXT” ile devam ediyoruz.
+###      In the Addition Options section, we see the NETBIOS name that is automatically generated for the domain structure. (NETBIOS is a system that enables different computers on the local network to communicate with each other.) We will proceed by clicking "NEXT".
+
+
+![image](https://user-images.githubusercontent.com/93924485/230356958-5deec787-a72e-4b11-9a38-b3a732febb7c.png)
 
 
 
