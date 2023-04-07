@@ -325,10 +325,18 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230634101-88825807-d4c8-4083-a0ce-188e9393bef2.png)
 
 
+### 5-) Use Microsoft Update to check for updates (recommended) ile güncellemeleri denetlemeniz yararlı olacaktır.
+###     It would be helpful to check for updates by selecting "Use Microsoft Update to check for updates (recommended)" option.
 
 
+![image](https://user-images.githubusercontent.com/93924485/230634423-44607404-5393-45de-8d1d-f2b92bfc4581.png)
 
 
+### 6-) Kurulum için gerekli bileşenleri seçiyorum. Bir kurulum yaparken tüm bileşenleri yüklemek son derece yanlış bir adım. Bu nedenle bize gerekli olan SQL bileşenlerini yükleyeceğiz. Bu nedenle "Database Engine Services", "SQL Server Replication", "Full-Text and Semantic Extractions for Search" ve "Data Quality Services" bileşenlerini seçiyorum. Kurulum yapılacak olan path bilgilerine dokunmadan Next ile sonraki adıma ilerliyorum.
+###     It is a good practice to only select the necessary SQL components during the installation, rather than installing all components. In this case, we will install the required SQL components, which are "Database Engine Services", "SQL Server Replication", "Full-Text and Semantic Extractions for Search", and "Data Quality Services". Let's proceed to the next step by clicking on "Next" without making any changes to the installation path information.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230635174-bab9f98f-a32e-4ab0-b2d5-8ae59afaf877.png)
 
 
 
