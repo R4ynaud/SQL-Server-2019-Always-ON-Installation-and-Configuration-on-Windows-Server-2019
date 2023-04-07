@@ -353,3 +353,23 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230639376-0c35ba09-2936-4c78-b8dc-23eda290631f.png)
 
 
+### 9-) Collation tabında özel bir dil seçiminiz olmayacak ise default olarak bırakabilirsiniz. Genelde SQL Latin CP1_CI_AS kullanılır.
+###     If you do not have a specific language preference, you can leave the collation tab as the default setting. Generally, SQL Latin CP1_CI_AS is used as the collation.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230640282-e41f4310-403b-481f-8b1b-3393a50b009c.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
