@@ -311,7 +311,9 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230633310-5676e21b-e952-4d39-9db7-b53333ef1dff.png)
 
 
+### 3-) Evaluation versiyonu ile kuruluma devam ediyoruz.
+###     We will continue with the installation using the evaluation version.
 
 
-
+![image](https://user-images.githubusercontent.com/93924485/230633797-2e726251-28fc-4908-868a-a1491b503993.png)
 
