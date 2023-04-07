@@ -339,6 +339,11 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230635174-bab9f98f-a32e-4ab0-b2d5-8ae59afaf877.png)
 
 
+### 7-) Bu ekranımızda kurulacak olan SQL için bir instance ismi belirleyebilir veya varsayılan instance ismi ile kurulum adımını geçebiliriz. Ben burada sunucu adı olarak “NODE1” instance ismini verdim. “Next” ile sonraki adıma geçiyoruz.
+###     On this screen, we can either specify an instance name for the SQL installation or proceed with the default instance name. Here, I have provided the instance name as "NODE1", which is the same as the server name. Let's proceed to the next step by clicking on "Next".
+
+
+![image](https://user-images.githubusercontent.com/93924485/230636011-48168b0b-96aa-48f0-99d7-c92f76c5ee08.png)
 
 
 
