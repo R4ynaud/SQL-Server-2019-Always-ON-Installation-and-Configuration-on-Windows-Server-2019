@@ -317,3 +317,20 @@ As we are setting up a domain structure for the first time, we will proceed with
 
 ![image](https://user-images.githubusercontent.com/93924485/230633797-2e726251-28fc-4908-868a-a1491b503993.png)
 
+
+### 4-) Sözleşmeyi kabul edip "Next" ile sonraki adıma ilerleyelim.
+###     Let's accept the agreement and proceed to the next step by clicking on "Next".
+
+
+![image](https://user-images.githubusercontent.com/93924485/230634101-88825807-d4c8-4083-a0ce-188e9393bef2.png)
+
+
+
+
+
+
+
+
+
+
+
