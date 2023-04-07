@@ -288,4 +288,23 @@ As we are setting up a domain structure for the first time, we will proceed with
 • I'm glad to hear that the tests have been successful without any issues.
 
 
-### SQL Server 2019 Evaluation Edition Installation & Configuration 
+# SQL Server 2019 Evaluation Edition Installation & Configuration 
+
+
+### 1-)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
