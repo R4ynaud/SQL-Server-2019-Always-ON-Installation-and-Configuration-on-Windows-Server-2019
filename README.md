@@ -401,5 +401,27 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230646542-72012eba-6795-454f-a964-adc46fc0a2f0.png)
 
 
+### 15-) Windows authentication ile veritabanına login oluyoruz, login olduktan sonra veritabanı güvenliği için "Security" --> "Logins" alanından yeni bir kullanıcı tanımlamamız gerekmektedir, bu bize istediğimiz kullanıcıyı farklı yetkiler ile veritabanı üzerinde yapacağı işlemleri yönetmemize olanak sağlar.
+###      We log in to the database with Windows authentication, and after logging in, for database security, we need to define a new user from the "Security" -> "Logins" area. This allows us to manage the actions that the desired user will perform on the database with different permissions.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230647404-7cdebba8-2c6c-4d64-bd89-eee9737a248a.png)
+
+
+![image](https://user-images.githubusercontent.com/93924485/230647793-6034d069-0cb1-4ef8-b671-802ad46a6dd8.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
