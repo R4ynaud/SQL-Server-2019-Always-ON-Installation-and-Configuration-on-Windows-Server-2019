@@ -374,9 +374,11 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230641587-5968ede0-eef5-4c9a-a769-f06c991b199e.png)
 
 
+### 12-) Kurulum işlemi sorunsuzca tamamlandı. "Close" ile bu ekranımızı kapatabiliriz.
+###      Great, the installation process has been completed successfully. We can close this window by clicking on the "Close" button.
 
 
-
+![image](https://user-images.githubusercontent.com/93924485/230642487-7e8bd928-b155-4ba6-854e-8f18b45329f6.png)
 
 
 
