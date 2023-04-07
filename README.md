@@ -291,7 +291,11 @@ As we are setting up a domain structure for the first time, we will proceed with
 # SQL Server 2019 Evaluation Edition Installation & Configuration 
 
 
-### 1-)
+### 1-) Custom seçeneği ile devam ediyoruz.
+###     Let's proceed with the custom option.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230628363-55e519c3-6984-49d5-870d-2db640ae7444.png)
 
 
 
