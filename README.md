@@ -411,10 +411,10 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230647793-6034d069-0cb1-4ef8-b671-802ad46a6dd8.png)
 
 
+• Bu zamana kadar yaptıklarımızı özetleyecek olursak, SQL Server Always On nedir bu konuya değindik, SQL Always ON mimarisini kurabilmek gerekli olan gereksinimlere değindik, SQL Server Always ON için sunucularımız üzerinde Failover Clustering özelliğini devreye alarak SQL Server 2019 kurulumlarımızı yaptık ve SQL Server yapısını yönetebilmek için gerekli olan SQL Management Studio kurulumunu yaptık. Şimdi bu kadar ön hazırlıktan sonra sıra SQL Server Always kurulumu öncesinde SQL Server cluster yapısını hayata geçirmeye.
 
 
-
-
+• If we summarize what we have done so far, we have discussed what SQL Server Always On is, the requirements necessary to set up the SQL Always On architecture, we have installed SQL Server 2019 on our servers by enabling the Failover Clustering feature for SQL Server Always On, and we have installed SQL Management Studio necessary for managing the SQL Server structure. Now, after all these preparations, it is time to implement the SQL Server cluster structure before the installation of SQL Server Always On.
 
 
 
