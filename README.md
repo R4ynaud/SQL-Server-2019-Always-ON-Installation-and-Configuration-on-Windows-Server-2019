@@ -381,9 +381,11 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230642487-7e8bd928-b155-4ba6-854e-8f18b45329f6.png)
 
 
+### 13-) Kurulum sonrasında servisimiz sorunsuz start olmuş ve çalışır durumda.
+###      After the installation, our service has started successfully and is running properly.
 
 
-
+![image](https://user-images.githubusercontent.com/93924485/230643071-e5594ae5-f545-46c1-acb0-f352d2fa64db.png)
 
 
 
