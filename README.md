@@ -304,10 +304,11 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230629238-68d74658-0802-4d13-ae0a-7f83798d2a4b.png)
 
 
+### 2-) Node 1 isimli sunucumuz üzerinde SQL Server 2019 kurulumumuzu başlatalım. Biz SQL Always On mimarisi yapılandıracak olduğumuz için "New SQL Server stand-alone installation or add features to an existing installation" seçeneğine tıklayalım.
+###     Let's begin the installation of SQL Server 2019 on our server named Node 1. As we are going to configure SQL Always On architecture, we need to select the "New SQL Server stand-alone installation or add features to an existing installation" option.
 
 
-
-
+![image](https://user-images.githubusercontent.com/93924485/230633310-5676e21b-e952-4d39-9db7-b53333ef1dff.png)
 
 
 
