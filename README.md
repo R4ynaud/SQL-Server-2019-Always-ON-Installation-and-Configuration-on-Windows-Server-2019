@@ -346,4 +346,10 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230636011-48168b0b-96aa-48f0-99d7-c92f76c5ee08.png)
 
 
+### 8-) "Next" ile sonraki adıma geçiyorum.
+###     let's proceed to the next step by clicking on "Next".
+
+
+![image](https://user-images.githubusercontent.com/93924485/230639376-0c35ba09-2936-4c78-b8dc-23eda290631f.png)
+
 
