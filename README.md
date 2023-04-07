@@ -388,6 +388,17 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230643071-e5594ae5-f545-46c1-acb0-f352d2fa64db.png)
 
 
+### 14-) SQL Server yönetimi için artık ayrıca kurulması gereken ve SQL Server kurulumundan bağımsız olarak kurulan SQL Management Studio kurulumunu yapalım.
+###      Let's proceed to install SQL Management Studio, which is a separate installation from SQL Server and is required for SQL Server management.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230643881-b5cbac5a-8cfb-4bc8-9401-0b913dc43942.png)
+
+
+![image](https://user-images.githubusercontent.com/93924485/230644000-3e7aefff-989c-4dc3-9927-1166336fd838.png)
+
+
+
 
 
 
