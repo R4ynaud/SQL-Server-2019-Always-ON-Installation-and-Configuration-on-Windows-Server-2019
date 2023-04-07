@@ -360,6 +360,20 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230640282-e41f4310-403b-481f-8b1b-3393a50b009c.png)
 
 
+### 10-) Database Engine Configuration kısmında kimlik doğrulama metodunu seçmemiz ve bunun için kullanıcı belirlememiz istenmektedir. Sql Server Windows kimlik doğrulaması ve Sql Server kimlik doğrulaması ile kurulabilmektedir. Biz ikisinin aynı anda aktif olma durumunu isteyebiliriz. Bu nedenle “Mixed Mode” çimini işaretliyoruz. "Add Current User" butonuna tıklayarak mevcut kullanıcımızı Windows Authentication için ekleme işlemini yapalım.
+###      In the Database Engine Configuration section, we need to select the authentication method and specify the user for it. SQL Server can be installed using either Windows Authentication or SQL Server Authentication, or both can be enabled simultaneously. For this purpose, we need to select the "Mixed Mode" option. Let's check the "Mixed Mode" checkbox and click on the "Add Current User" button to add the current user for Windows Authentication. 
+
+
+![image](https://user-images.githubusercontent.com/93924485/230641121-84e78e6b-e3c9-40ae-bca9-fd0e4c916d11.png)
+
+
+### 11-) "Install" butonuna tıklayarak kurulumu başlatalım.
+###      Let's start the installation process by clicking on the "Install" button.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230641587-5968ede0-eef5-4c9a-a769-f06c991b199e.png)
+
+
 
 
 
