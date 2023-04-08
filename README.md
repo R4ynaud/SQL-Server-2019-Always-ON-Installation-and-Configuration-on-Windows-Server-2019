@@ -471,6 +471,11 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230718595-6660a5d4-2233-4b20-9b36-5f0b96d1bd0e.png)
 
 
+### Eğer böyle bir hata alırsak aşağıdaki adımları izlememiz gerekiyor.
+###
+
+
+![image](https://user-images.githubusercontent.com/93924485/230719082-c463167c-3db3-4d2b-af99-680d308e5494.png)
 
 
 
