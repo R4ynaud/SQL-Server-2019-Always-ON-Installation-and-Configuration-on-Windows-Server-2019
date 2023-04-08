@@ -428,15 +428,30 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230717889-1e4f78f7-9d35-41a5-a6b0-9c26c3280f5a.png)
 
 
+### 2-) Next ile devam edelim.
+###     Let's click on "Next" to continue.
 
 
+![image](https://user-images.githubusercontent.com/93924485/230718089-6f30120d-626d-4f13-9cc3-579ed6853926.png)
 
 
+### 3-) Cluster’a dahil olacak sunucuları belirlemek için "Browse…" butonuna tıklayalım.
+###     Let's click on the "Browse..." button to select the servers that will be part of the cluster.
 
 
+![image](https://user-images.githubusercontent.com/93924485/230718198-d328229e-b790-4725-937f-5548fed5c3d3.png)
 
 
+![image](https://user-images.githubusercontent.com/93924485/230718283-3582607d-ef89-49a5-b988-f62972d978cf.png)
 
+
+![image](https://user-images.githubusercontent.com/93924485/230718370-4b4f50a4-5212-4536-ba7f-e4c07399744f.png)
+  
+
+![image](https://user-images.githubusercontent.com/93924485/230718393-d2b87f03-acc8-4d83-8ccf-16b0f07a46c7.png)
+
+
+![image](https://user-images.githubusercontent.com/93924485/230718408-8b5da43d-3f89-43d2-bbf3-0b136664e88e.png)
 
 
 
