@@ -454,9 +454,11 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230718408-8b5da43d-3f89-43d2-bbf3-0b136664e88e.png)
 
 
+### 4-) Cluster ismini verip "Next" ile devam ediyoruz.
+###     Let's give a name to the cluster and click on "Next" to continue.
 
 
-
+![image](https://user-images.githubusercontent.com/93924485/230718487-d84aaf3e-4a94-404a-923b-adff84bba6c7.png)
 
 
 
