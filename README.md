@@ -512,13 +512,14 @@ As we are setting up a domain structure for the first time, we will proceed with
 
 
 > Ve Find Now'a tıklayarak "Node2" & "Node3" sunucularını ekliyoruz.
+
 > We add "Node2" and "Node3" servers by clicking on "Find Now" after that.
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230783383-9f6fa7e7-d317-49e5-bb91-72d4f91b0bb7.png) 
 
 
-![image](https://user-images.githubusercontent.com/93924485/230783484-4a22e2cd-0a8e-4909-8a1a-1faa1984205a.png)
+![image](https://user-images.githubusercontent.com/93924485/230783572-efd385ac-25ae-457c-a09a-a145567761b1.png)
 
 
 > Click on "Next"
