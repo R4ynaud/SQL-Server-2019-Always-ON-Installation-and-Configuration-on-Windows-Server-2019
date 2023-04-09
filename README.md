@@ -488,6 +488,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 
 
 • "Add Node" sekmesine tıklayın.  
+
 • Click on "Add Node".
 
 
@@ -495,6 +496,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 
 
 • "Next" e tıklayın.
+
 • Click on "Next".
 
 
@@ -502,6 +504,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 
 
 • "Browse" e tıklayın.
+
 • Click on "Browse"
 
 
@@ -509,6 +512,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 
 
 • "Browse" a tıklayın.
+
 • Click on "Advanced".
 
 
@@ -527,6 +531,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 
 
 • "Next" e tıklayın.
+
 • Click on "Next"
 
 
@@ -534,6 +539,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 
 
 • "Next" e tıklayın.
+
 • Click on "Next"
 
 
