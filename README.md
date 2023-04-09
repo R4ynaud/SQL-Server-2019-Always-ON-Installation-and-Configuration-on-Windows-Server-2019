@@ -487,25 +487,29 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230783019-99cd42c0-9d71-4e1e-b6d9-e526a329a997.png)
 
 
-• Click on "Add Node"
+• "Add Node" sekmesine tıklayın.  
+• Click on "Add Node".
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230783035-fa0d92d3-902b-409e-9a0c-8c82e2635f8b.png)
 
 
-• Click on "Next"
+• "Next" e tıklayın.
+• Click on "Next".
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230783056-97c3550f-7846-4d8c-a0b7-30eda32ecda4.png)
 
 
+• "Browse" e tıklayın.
 • Click on "Browse"
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230783081-e7533fc9-b1fd-43b0-b09d-a38639c85ea1.png)
 
 
-• Click on "Advanced"
+• "Browse" a tıklayın.
+• Click on "Advanced".
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230783279-7bcbf8ef-a446-43c7-8ea8-ee6d2482b423.png)
@@ -522,12 +526,14 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230783572-efd385ac-25ae-457c-a09a-a145567761b1.png)
 
 
+• "Next" e tıklayın.
 • Click on "Next"
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230783521-59ac37cd-98e5-4707-880c-7c536ae4e4ac.png)
 
 
+• "Next" e tıklayın.
 • Click on "Next"
 
 
