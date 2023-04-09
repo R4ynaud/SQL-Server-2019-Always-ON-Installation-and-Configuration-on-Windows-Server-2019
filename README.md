@@ -67,15 +67,15 @@
 ![image](https://user-images.githubusercontent.com/93924485/230314452-d2253253-16c3-403b-9010-7d6488cd618e.png)
 
 
-### 5-) Bu özellik ekleme işlemi sırasında yeniden başlatma gerekir ise bunun otomatik olarak gerçekleşmesi için Restart the destination server automatically if requred seçimini işaretleyebiliriz. Ben gerekmesi durumunda bunu manuel olarak yapacağım için kurulum adımlarını başlatıp tamamlamak için Install butonuna tıklıyorum.
+### 5-) Bu özellik ekleme işlemi sırasında yeniden başlatma gerekir ise bunun otomatik olarak gerçekleşmesi için "Restart the destination server automatically if requred" seçimini işaretleyebiliriz. Ben gerekmesi durumunda bunu manuel olarak yapacağım için kurulum adımlarını başlatıp tamamlamak için Install butonuna tıklıyorum.
 ###     We can select "Restart the destination server automatically if required" option if a restart is needed during the feature addition process to be done automatically. However, if you prefer to do this manually, you can start and complete the installation steps by clicking on the "Install" button.
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230314919-0976ac8d-6bde-42a3-987a-950abb21c33a.png)
 
 
-### 6-) Failover Cluster Manager konsolumuzu açabiliriz.
-###     Sure, we can open the Failover Cluster Manager console.
+### 6-) "Failover Cluster Manager" konsolumuzu açabiliriz.
+###     Sure, we can open the "Failover Cluster Manager console".
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230316080-db9d30ac-6fa0-4102-a9a8-ce408927dfb3.png)
@@ -88,8 +88,8 @@
 ![image](https://user-images.githubusercontent.com/93924485/230316504-5b7cafe3-7d5b-44e8-808c-5cf0a6f99abb.png)
 
 
-### 8-) Cluster kurulumuna geçmeden önce tüm sunucularda Active Directory Domain Services kurulumu yapmamız gerekiyor, bunun için aşağıdaki adımları uygulayabilirsiniz. 
-###     Before proceeding with the cluster installation, we need to install Active Directory Domain Services on all servers. You can follow the steps below for this.
+### 8-) Cluster kurulumuna geçmeden önce tüm sunucularda "Active Directory Domain Services" kurulumu yapmamız gerekiyor, bunun için aşağıdaki adımları uygulayabilirsiniz. 
+###     Before proceeding with the cluster installation, we need to install "Active Directory Domain Services" on all servers. You can follow the steps below for this.
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230349109-c569340b-3547-4379-bea9-393a670a7654.png)
@@ -140,7 +140,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230355953-08dfc05f-a8f3-415f-b59a-3268414e394a.png)
 
 
-### 12-) DNS Options kısmında bir uyarı çıkıyor.Bu uyarı herhangi bir problem teşkil etmektedir.Yapımızda bir DNS Server olmadığı  ve DNS Zone üzerinde herhangi bir Delegasyon ataması yapılmadığı için vermektedir.“NEXT” ile devam ediyorum.
+### 12-) DNS Options kısmında bir uyarı çıkıyor.Bu uyarı herhangi bir problem teşkil etmemektedir.Yapımızda bir DNS Server olmadığı  ve DNS Zone üzerinde herhangi bir Delegasyon ataması yapılmadığı için vermektedir.“NEXT” ile devam ediyorum.
 ###      There is a warning in the DNS Options section. This warning does not pose any problems. It is displayed because there is no DNS Server in our structure and no delegation is assigned on the DNS Zone. I will proceed by clicking "NEXT".
 
 
@@ -161,36 +161,36 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230357362-99abba30-6933-4cf4-94b6-1b2cb86f7296.png)
 
 
-### 15-) Review Options kısmında isteğe bağlı tüm ayarlarımızı powershell scripti olarak görüp farklı ortamlara export edebiliriz.“NEXT” ile devam ediyoruz.
+### 15-) Review Options kısmında isteğe bağlı tüm ayarlarımızı PowerShell scripti olarak görüp farklı ortamlara export edebiliriz.“NEXT” ile devam ediyoruz.
 ###      In the Review Options section, we can see all our optional settings as a PowerShell script and export them to different environments. We will continue by clicking "NEXT".
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230357748-bc549e7a-5f92-46d0-9910-9c012ff9133a.png)
 
 
-### 16-) Prerequisites Check kısmında domain kurulabilmesi için bir kontrol işlemi yapılmaktadır. Resimde görüldüğü üzere işlem başarılı olmuştur.”Install” ile kurulumu başlatıyoruz.Yükleme işlemi başladı.Belli bir süre sonra yükleme tamamlanacak ve sistem kendini otomatik olarak yeniden başlatacak.Kurulum sunucu özelliklerine göre 15 dakika gibi bir zaman alabilir.
+### 16-) Prerequisites Check kısmında domain kurulabilmesi için bir kontrol işlemi yapılmaktadır. Resimde görüldüğü üzere işlem başarılı olmuştur.”Install” ile kurulumu başlatıyoruz. Yükleme işlemi başladı. Belli bir süre sonra yükleme tamamlanacak ve sistem kendini otomatik olarak yeniden başlatacak. Kurulum sunucu özelliklerine göre 15 dakika gibi bir zaman alabilir.
 ###      In the Prerequisites Check section, a verification process is performed to ensure that the domain can be installed. As seen in the image, the process has been successful. We will start the installation by clicking "Install". The installation process has started. After a while, the installation will be completed, and the system will automatically restart itself. Depending on the server specifications, the installation may take around 15 minutes.
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230358398-054cfe8e-3f9d-457a-9d04-c68f4e7caf09.png)
   
 
-### 17-) Kurulum tamamlandıktan sonra Domain and Computers kısmını kontrol edelim.
-###      After the installation is completed, let's check the Domain and Computers section.
+### 17-) Kurulum tamamlandıktan sonra "Domain and Computers" kısmını kontrol edelim.
+###      After the installation is completed, let's check the "Domain and Computers" section.
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230360431-aaf6ea5a-59e9-4a9f-b8bd-5cce16634854.png)
 
 
-### 18-) Node 1 isimli sunucuda kurduğumuz domain'e Node 2 & Node 3 sunucularını dahil edebilmek için Node 1 sunucusunun ip adresinin Node 2 & Node 3 sunucularının DNS alanına yazmamız gerekmektedir.
-###      We need to add the IP address of Node 1 server to the DNS area of Node 2 & Node 3 servers in order to be able to join them to the domain installed on Node 1.
+### 18-) "Node 1" isimli sunucuda kurduğumuz domain'e "Node 2" & "Node 3" sunucularını dahil edebilmek için "Node 1" sunucusunun ip adresinin "Node 2" & "Node 3" sunucularının DNS alanına yazmamız gerekmektedir.
+###      We need to add the IP address of "Node 1" server to the DNS area of "Node 2" & "Node 3" servers in order to be able to join them to the domain installed on Node 1.
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230369992-3c7f443f-96b8-4b02-8052-5dea88a5990a.png)
 
 
-### 19-) Aşağıdaki adımları izleyerek Node 2 & Node 3 sunucuları " Raynaud.local " adlı domaine alıyoruz.
-###      We are adding Node 2 and Node 3 servers to the domain named "Raynaud.local" by following the steps below.
+### 19-) Aşağıdaki adımları izleyerek "Node 2" & "Node 3" sunucularını " Raynaud.local " adlı domaine alıyoruz.
+###      We are adding "Node 2" and "Node 3" servers to the domain named "Raynaud.local" by following the steps below.
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230372682-e0891cca-ce53-48e8-bac8-24089b4d24a2.png)
@@ -214,15 +214,15 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230373949-daaa562d-e257-4994-a0b5-6c2bc1695338.png)
 
 
-• Sorunsuz bir şekilde Node 2 & Node 3 sunucumuzu domaine'e aldık kontrol etmek için Node 1 de " Active Directory Users and Computers " alanından " Computers " sekmesine bakıyoruz.
+• Sorunsuz bir şekilde "Node 2" & "Node 3" sunucumuzu domaine'e aldık kontrol etmek için "Node 1" de " Active Directory Users and Computers " alanından " Computers " sekmesine bakıyoruz.
 
-• To check that we have successfully added Node 2 and Node 3 servers to the domain, we are looking at the "Computers" tab in the "Active Directory Users and Computers" section on Node 1.
+• To check that we have successfully added "Node 2" and "Node 3" servers to the domain, we are looking at the "Computers" tab in the "Active Directory Users and Computers" section on Node 1.
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230374368-2c4216c6-ba27-423c-81a0-4e9cf4e595ca.png)
 
 
-### 20-) Konsolumuz açıldı. Bu sunucumuz üzerinde de buraya kadar olan işlemlerimiz tamamlandı. Şimdi cluster kurulumuna geçmeden bir test işlemi yapabiliriz. Bu adım için Validate Configuration… linkine tıklayabiliriz.
+### 20-) Konsolumuz açıldı. Bu sunucumuz üzerinde de buraya kadar olan işlemlerimiz tamamlandı. Şimdi cluster kurulumuna geçmeden bir test işlemi yapabiliriz. Bu adım için "Validate Configuration" linkine tıklayabiliriz.
 ###      Our console has been opened. We have completed all the necessary steps up to this point on this server. Now, before proceeding with the cluster installation, we can perform a test operation. For this step, we can click on the "Validate Configuration" link.
 
 
@@ -232,7 +232,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230376479-81e61365-817e-400e-bafb-bcd35ae9ea24.png)
 
 
-### 21-) Sihirbaz ekranını Next ile geçelim.
+### 21-) Sihirbaz ekranını "Next" ile geçelim.
 ###      Let's proceed to the next screen of the wizard by clicking on "Next".
 
 
@@ -246,8 +246,8 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230377036-f31208fd-9c83-4724-b9e0-45fedaf38947.png)
 
 
-### 23-) Node 2 & Node 3 sunucularını bulduktan sonra OK butonuna tıklayalım.
-###      After finding Node 2 & Node 3 servers, click on the OK button.
+### 23-) "Node 2" & "Node 3" sunucularını bulduktan sonra "OK" butonuna tıklayalım.
+###      After finding "Node 2" & "Node 3" servers, click on the "OK" button.
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230377391-68c4b84a-2960-414a-82d9-a2bf84764cd0.png)
@@ -259,8 +259,8 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230377827-82e9acbd-6669-48da-a246-5b6e414f876c.png)
 
 
-### 24-) Run all tests (recommended) seçeneğini seçip tüm testlerin gerçekleşmesini sağlaman için Next ile sonraki adıma ilerleyelim.
-###      Select the "Run all tests (recommended)" option and click Next to proceed to the next step to ensure that all tests are performed.
+### 24-) "Run all tests (recommended)" seçeneğini seçip tüm testlerin gerçekleşmesini sağlaman için "Next" ile sonraki adıma ilerleyelim.
+###      Select the "Run all tests (recommended)" option and click "Next" to proceed to the next step to ensure that all tests are performed.
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230378125-22a5beb9-5d0d-4601-841b-c1311f981b86.png)
@@ -276,7 +276,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230378841-fef585ef-e6c8-48a6-814f-f0c758cc1759.png)
 
 
-### 26-) Birkaç uyarı ile test işlemimiz tamamlandı. View Report… ile rapora göz atabilir ve sonrasında Finish ile test işlemimizi tamamlayabiliriz.
+### 26-) Birkaç uyarı ile test işlemimiz tamamlandı. "View Report..." ile rapora göz atabilir ve sonrasında Finish ile test işlemimizi tamamlayabiliriz.
 ###      Our testing process has been completed with a few warnings. You can check the report by clicking on "View Report..." and then complete the testing process by clicking on "Finish".
 
 
@@ -291,8 +291,8 @@ As we are setting up a domain structure for the first time, we will proceed with
 # SQL Server 2019 Evaluation Edition Installation & Configuration 
 
 
-### 1-) Custom seçeneği ile devam ediyoruz.
-###     Let's proceed with the custom option.
+### 1-) "Custom" seçeneği ile devam ediyoruz.
+###     Let's proceed with the "Custom" option.
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230628363-55e519c3-6984-49d5-870d-2db640ae7444.png)
@@ -304,15 +304,15 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230629238-68d74658-0802-4d13-ae0a-7f83798d2a4b.png)
 
 
-### 2-) Node 1 isimli sunucumuz üzerinde SQL Server 2019 kurulumumuzu başlatalım. Biz SQL Always On mimarisi yapılandıracak olduğumuz için "New SQL Server stand-alone installation or add features to an existing installation" seçeneğine tıklayalım.
-###     Let's begin the installation of SQL Server 2019 on our server named Node 1. As we are going to configure SQL Always On architecture, we need to select the "New SQL Server stand-alone installation or add features to an existing installation" option.
+### 2-) "Node 1" isimli sunucumuz üzerinde SQL Server 2019 kurulumumuzu başlatalım. Biz SQL Always On mimarisi yapılandıracak olduğumuz için "New SQL Server stand-alone installation or add features to an existing installation" seçeneğine tıklayalım.
+###     Let's begin the installation of SQL Server 2019 on our server named "Node 1". As we are going to configure SQL Always On architecture, we need to select the "New SQL Server stand-alone installation or add features to an existing installation" option.
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230633310-5676e21b-e952-4d39-9db7-b53333ef1dff.png)
 
 
-### 3-) Evaluation versiyonu ile kuruluma devam ediyoruz.
-###     We will continue with the installation using the evaluation version.
+### 3-) "Evaluation" versiyonu ile kuruluma devam ediyoruz.
+###     We will continue with the installation using the "Evaluation" version.
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230633797-2e726251-28fc-4908-868a-a1491b503993.png)
@@ -339,8 +339,8 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230635174-bab9f98f-a32e-4ab0-b2d5-8ae59afaf877.png)
 
 
-### 7-) Bu ekranımızda kurulacak olan SQL için bir instance ismi belirleyebilir veya varsayılan instance ismi ile kurulum adımını geçebiliriz. Ben burada sunucu adı olarak “NODE1” instance ismini verdim. “Next” ile sonraki adıma geçiyoruz.
-###     On this screen, we can either specify an instance name for the SQL installation or proceed with the default instance name. Here, I have provided the instance name as "NODE1", which is the same as the server name. Let's proceed to the next step by clicking on "Next".
+### 7-) Bu ekranımızda kurulacak olan SQL Server için bir instance ismi belirleyebilir veya varsayılan instance ismi ile kurulum adımını geçebiliriz. Ben burada sunucu adı olarak “NODE1” instance ismini verdim. “Next” ile sonraki adıma geçiyoruz.
+###     On this screen, we can either specify an instance name for the SQL Server installation or proceed with the default instance name. Here, I have provided the instance name as "NODE1", which is the same as the server name. Let's proceed to the next step by clicking on "Next".
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230636011-48168b0b-96aa-48f0-99d7-c92f76c5ee08.png)
@@ -353,8 +353,8 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230639376-0c35ba09-2936-4c78-b8dc-23eda290631f.png)
 
 
-### 9-) Collation tabında özel bir dil seçiminiz olmayacak ise default olarak bırakabilirsiniz. Genelde SQL Latin CP1_CI_AS kullanılır.
-###     If you do not have a specific language preference, you can leave the collation tab as the default setting. Generally, SQL Latin CP1_CI_AS is used as the collation.
+### 9-) Collation tabında özel bir dil seçiminiz olmayacak ise default olarak bırakabilirsiniz. Genelde "SQL Latin CP1_CI_AS" kullanılır.
+###     If you do not have a specific language preference, you can leave the collation tab as the default setting. Generally, "SQL Latin CP1_CI_AS" is used as the collation.
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230640282-e41f4310-403b-481f-8b1b-3393a50b009c.png)
@@ -417,7 +417,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 • If we summarize what we have done so far, we have discussed what SQL Server Always On is, the requirements necessary to set up the SQL Always On architecture, we have installed SQL Server 2019 on our servers by enabling the Failover Clustering feature for SQL Server Always On, and we have installed SQL Management Studio necessary for managing the SQL Server structure. Now, after all these preparations, it is time to implement the SQL Server cluster structure before the installation of SQL Server Always On.
 
 
-# Şimdi Yeni Bir Cluster Oluşturup Node 1, Node 2 ve Node 3 Sunucularında Kurulu Olan SQL Server'ları Cluster'a Ekleyeceğiz.
+# Şimdi Yeni Bir Cluster Oluşturup "Node 1", "Node 2" ve "Node 3" Sunucularında Kurulu Olan SQL Server'ları Cluster'a Ekleyeceğiz.
 # Now, We Will Create A New Cluster And Add The SQL Servers Installed On Node 1, Node 2, And Node 3 Servers To The Cluster.
 
 
@@ -519,7 +519,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230783279-7bcbf8ef-a446-43c7-8ea8-ee6d2482b423.png)
 
 
-• Ve Find Now'a tıklayarak "Node2" & "Node3" sunucularını ekliyoruz.
+• Ve "Find Now" a tıklayarak "Node2" & "Node3" sunucularını ekliyoruz.
 
 • We add "Node2" and "Node3" servers by clicking on "Find Now" after that.
 
