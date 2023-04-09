@@ -478,8 +478,20 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230719082-c463167c-3db3-4d2b-af99-680d308e5494.png)
 
 
+```
 
+ * An error occurred while creating the cluster and the nodes will be cleaned up. Please wait...
+ * There was an error cleaning up the cluster nodes. Use Clear-ClusterNode to manually clean up the nodes.
+ * There was an error cleaning up the cluster nodes. Use Clear-ClusterNode to manually clean up the nodes.
+ * There was an error cleaning up the cluster nodes. Use Clear-ClusterNode to manually clean up the nodes.
+ * An error occurred while creating the cluster.
+An error occurred creating cluster 'Raynaud'.
 
+This operation returned because the timeout period expired
+
+ * To troubleshoot cluster creation problems, run the Validate a Configuration wizard on the servers you want to cluster.
+
+```
 
 
 
