@@ -487,6 +487,9 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230783019-99cd42c0-9d71-4e1e-b6d9-e526a329a997.png)
 
 
+> Click on "Add Node"
+
+
 ![image](https://user-images.githubusercontent.com/93924485/230783035-fa0d92d3-902b-409e-9a0c-8c82e2635f8b.png)
 
 
