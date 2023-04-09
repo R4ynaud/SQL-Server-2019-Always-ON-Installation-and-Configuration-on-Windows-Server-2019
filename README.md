@@ -480,27 +480,41 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230718595-6660a5d4-2233-4b20-9b36-5f0b96d1bd0e.png)
 
 
-### • Eğer böyle bir hata alırsak aşağıdaki adımları izlememiz gerekiyor.
-###
+### • Cluster'ı sorunsuz oluşturduk. Şimdi "Node2" & "Node3" sunucularını bu cluster'a dahil edelim, bunun için "Configure" alanından "Add Node" sekmesine tıklayalım.
+### • We have successfully created the cluster. Now let's add "Node2" and "Node3" servers to this cluster by clicking on the "Add Node" tab in the "Configure" section. 
 
 
-![image](https://user-images.githubusercontent.com/93924485/230719082-c463167c-3db3-4d2b-af99-680d308e5494.png)
+![image](https://user-images.githubusercontent.com/93924485/230783019-99cd42c0-9d71-4e1e-b6d9-e526a329a997.png)
 
 
-```
+![image](https://user-images.githubusercontent.com/93924485/230783035-fa0d92d3-902b-409e-9a0c-8c82e2635f8b.png)
 
- * An error occurred while creating the cluster and the nodes will be cleaned up. Please wait...
- * There was an error cleaning up the cluster nodes. Use Clear-ClusterNode to manually clean up the nodes.
- * There was an error cleaning up the cluster nodes. Use Clear-ClusterNode to manually clean up the nodes.
- * There was an error cleaning up the cluster nodes. Use Clear-ClusterNode to manually clean up the nodes.
- * An error occurred while creating the cluster.
-An error occurred creating cluster 'Raynaud'.
 
-This operation returned because the timeout period expired
+> Click on "Next"
 
- * To troubleshoot cluster creation problems, run the Validate a Configuration wizard on the servers you want to cluster.
 
-```
+![image](https://user-images.githubusercontent.com/93924485/230783056-97c3550f-7846-4d8c-a0b7-30eda32ecda4.png)
+
+
+> Click on "Browse"
+
+
+![image](https://user-images.githubusercontent.com/93924485/230783081-e7533fc9-b1fd-43b0-b09d-a38639c85ea1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
