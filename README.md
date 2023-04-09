@@ -487,33 +487,33 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230783019-99cd42c0-9d71-4e1e-b6d9-e526a329a997.png)
 
 
-> Click on "Add Node"
+• Click on "Add Node"
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230783035-fa0d92d3-902b-409e-9a0c-8c82e2635f8b.png)
 
 
-> Click on "Next"
+• Click on "Next"
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230783056-97c3550f-7846-4d8c-a0b7-30eda32ecda4.png)
 
 
-> Click on "Browse"
+• Click on "Browse"
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230783081-e7533fc9-b1fd-43b0-b09d-a38639c85ea1.png)
 
 
-> Click on "Advanced"
+• Click on "Advanced"
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230783279-7bcbf8ef-a446-43c7-8ea8-ee6d2482b423.png)
 
 
-> Ve Find Now'a tıklayarak "Node2" & "Node3" sunucularını ekliyoruz.
+• Ve Find Now'a tıklayarak "Node2" & "Node3" sunucularını ekliyoruz.
 
-> We add "Node2" and "Node3" servers by clicking on "Find Now" after that.
+• We add "Node2" and "Node3" servers by clicking on "Find Now" after that.
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230783383-9f6fa7e7-d317-49e5-bb91-72d4f91b0bb7.png) 
@@ -522,13 +522,13 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230783572-efd385ac-25ae-457c-a09a-a145567761b1.png)
 
 
-> Click on "Next"
+• Click on "Next"
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230783521-59ac37cd-98e5-4707-880c-7c536ae4e4ac.png)
 
 
-> Click on "Next"
+• Click on "Next"
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230783618-66b067c2-35fb-4f09-970c-ee11f6b8b065.png)
