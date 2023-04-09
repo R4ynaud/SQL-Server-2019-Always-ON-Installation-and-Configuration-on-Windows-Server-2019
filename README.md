@@ -505,9 +505,16 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230783081-e7533fc9-b1fd-43b0-b09d-a38639c85ea1.png)
 
 
+> Click on "Advanced"
 
 
+![image](https://user-images.githubusercontent.com/93924485/230783279-7bcbf8ef-a446-43c7-8ea8-ee6d2482b423.png)
 
+
+> We add "Node2" and "Node3" servers by clicking on "Find Now" after that.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230783383-9f6fa7e7-d317-49e5-bb91-72d4f91b0bb7.png) 
 
 
 
