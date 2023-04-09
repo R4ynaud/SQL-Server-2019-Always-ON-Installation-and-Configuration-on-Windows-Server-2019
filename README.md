@@ -528,9 +528,10 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230783521-59ac37cd-98e5-4707-880c-7c536ae4e4ac.png)
 
 
+> Click on "Next"
 
 
-
+![image](https://user-images.githubusercontent.com/93924485/230783618-66b067c2-35fb-4f09-970c-ee11f6b8b065.png)
 
 
 
