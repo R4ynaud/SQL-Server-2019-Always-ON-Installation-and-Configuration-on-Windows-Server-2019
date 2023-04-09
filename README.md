@@ -417,7 +417,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 • If we summarize what we have done so far, we have discussed what SQL Server Always On is, the requirements necessary to set up the SQL Always On architecture, we have installed SQL Server 2019 on our servers by enabling the Failover Clustering feature for SQL Server Always On, and we have installed SQL Management Studio necessary for managing the SQL Server structure. Now, after all these preparations, it is time to implement the SQL Server cluster structure before the installation of SQL Server Always On.
 
 
-# Şimdi Yeni Bir Sluster Oluşturup Node 1, Node 2 ve Node 3 Sunucularında Kurulu Olan SQL Server'ları Cluster'a Ekleyeceğiz.
+# Şimdi Yeni Bir Cluster Oluşturup Node 1, Node 2 ve Node 3 Sunucularında Kurulu Olan SQL Server'ları Cluster'a Ekleyeceğiz.
 # Now, We Will Create A New Cluster And Add The SQL Servers Installed On Node 1, Node 2, And Node 3 Servers To The Cluster.
 
 
