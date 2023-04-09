@@ -442,6 +442,10 @@ As we are setting up a domain structure for the first time, we will proceed with
 • Cluster'ı oluşturmadan önce aşağıdaki komutu "Windows PowerShell" üzerinde çalıştırmalıyız.
 • Before creating the cluster, we need to run the following command on "Windows PowerShell".
 
+
+> Clear-ClusterNode -Name "Server name or ip "
+
+
 ![image](https://user-images.githubusercontent.com/93924485/230718198-d328229e-b790-4725-937f-5548fed5c3d3.png)
 
 
