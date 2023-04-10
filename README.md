@@ -558,3 +558,30 @@ As we are setting up a domain structure for the first time, we will proceed with
 
 ### • "Node1" sunucusunda "Failover Cluster Manager" üzerinde "Raynaud" adında yeni bir cluster oluşturarak ve "Node2" & "Node3" isimli sunucularımızı cluster ortamına dahil ettik. Always On mimarisi yapılandırma adımları öncesinde birkaç ön hazırlık yapmamız gerekiyor.
 ### • Before configuring the Always On architecture, we need to make a few preparations. We have created a new cluster named "Raynaud" on the "Node1" server using the "Failover Cluster Manager" and added our servers named "Node2" and "Node3" to the cluster environment.
+
+
+### 1-) "SQL Server Configuration Manager" konsolunu açalım. "SQL Server Network Configuration altında" yer alan "Protocols for NODE1" isimli instance’ımıza ait ekranı açalım. 
+###     Let's open the "SQL Server Configuration Manager" console and access the screen for the "Protocols for NODE1" instance under "SQL Server Network Configuration".
+
+
+![image](https://user-images.githubusercontent.com/93924485/230890320-d53eb2f3-8e89-411b-9b81-19c451442569.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
