@@ -578,10 +578,14 @@ As we are setting up a domain structure for the first time, we will proceed with
 ###     After that, let's open the properties of the "Node1" instance, enable the "Enable Always On Availability Groups" feature, and exit this screen by clicking on the "OK" button.
 
 
+• Bu işlemin aynısını "Node2" & "Node3" sunucularında da yapmamız gerekiyor.
+• We need to perform the same operation on 'Node2' & 'Node3' servers as well.
 
 
+![image](https://user-images.githubusercontent.com/93924485/230933869-5da58a2b-15dc-4807-ad58-97395a3dea9d.png)
 
 
+![image](https://user-images.githubusercontent.com/93924485/230934127-50fbf8da-211a-4aea-b5ca-6b7318521c29.png)
 
 
 
