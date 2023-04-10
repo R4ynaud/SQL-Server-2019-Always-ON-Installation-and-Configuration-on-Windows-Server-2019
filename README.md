@@ -574,7 +574,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230890921-cba74b29-61c4-4e9f-8447-6eb69572de1f.png)
 
 
-### 3-) Sonrasında "Node1" instance özelliklerini açarak "Enable Qlways ON Availability Groups" özelliğini aktif duruma getirerek "OK" butonu ile bu ekranımızdan çıkalım.
+### 3-) Sonrasında "Node1" instance özelliklerini açarak "Enable Qlways On Availability Groups" özelliğini aktif duruma getirerek "OK" butonu ile bu ekranımızdan çıkalım.
 ###     After that, let's open the properties of the "Node1" instance, enable the "Enable Always On Availability Groups" feature, and exit this screen by clicking on the "OK" button.
 
 
