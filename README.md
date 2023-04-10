@@ -511,9 +511,9 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230783081-e7533fc9-b1fd-43b0-b09d-a38639c85ea1.png)
 
 
-• "Check Names" a tıklayın.
+• "Check Names" ve ardından "Advanced" a tıklayın.
 
-• Click on "Advanced".
+• Click on "Check Names" and then click on "Advanced".
 
 
 ![image](https://user-images.githubusercontent.com/93924485/230783279-7bcbf8ef-a446-43c7-8ea8-ee6d2482b423.png)
