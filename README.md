@@ -567,7 +567,11 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230890320-d53eb2f3-8e89-411b-9b81-19c451442569.png)
 
 
+### 2-) "Named Pipes Properties" ekranımızdaki "Enabled" özelliğini "Yes" konumuna getirelim. "OK" ile bu ekrandan çıkalım.
+###     Let's set the "Enabled" property to "Yes" on our "Named Pipes Properties" screen. Then, let's exit this screen by clicking on "OK".
 
+
+![image](https://user-images.githubusercontent.com/93924485/230890921-cba74b29-61c4-4e9f-8447-6eb69572de1f.png)
 
 
 
