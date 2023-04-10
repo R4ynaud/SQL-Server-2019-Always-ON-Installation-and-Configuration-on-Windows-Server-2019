@@ -511,7 +511,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230783081-e7533fc9-b1fd-43b0-b09d-a38639c85ea1.png)
 
 
-• "Browse" a tıklayın.
+• "Check Names" a tıklayın.
 
 • Click on "Advanced".
 
