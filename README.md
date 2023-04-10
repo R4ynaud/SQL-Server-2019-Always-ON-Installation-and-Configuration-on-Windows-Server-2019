@@ -589,6 +589,16 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230934127-50fbf8da-211a-4aea-b5ca-6b7318521c29.png)
 
 
+• Always On konfigürasyon için gerekli SQL Server versionu aşağıdaki gibi olmalıdır.
+
+• The required SQL Server version for configuring Always On should be as follows.
+
+
+![image](https://user-images.githubusercontent.com/93924485/230948013-c7f197e6-8917-4224-998d-325de4d74664.png)
+
+
+
+
 
 
 
