@@ -579,6 +579,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 
 
 • Bu işlemin aynısını "Node2" & "Node3" sunucularında da yapmamız gerekiyor.
+
 • We need to perform the same operation on 'Node2' & 'Node3' servers as well.
 
 
