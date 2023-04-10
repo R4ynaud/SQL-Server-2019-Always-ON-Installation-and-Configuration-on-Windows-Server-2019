@@ -553,6 +553,6 @@ As we are setting up a domain structure for the first time, we will proceed with
 
 
 # Nihayet sıra geldi SQL Always On mimarisini devreye almaya !
-# Finally, it's time to implement the SQL Always On architecture!
+# Finally, it's time to implement the SQL Always On architecture !
 
 
