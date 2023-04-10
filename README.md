@@ -552,6 +552,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230783675-e15301a7-dd7b-40ec-8c6c-ff126ff18005.png)
 
 
-
+# Nihayet sıra geldi SQL Always On mimarisini devreye almaya !
+# Finally, it's time to implement the SQL Always On architecture!
 
 
