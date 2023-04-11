@@ -600,6 +600,15 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/230949881-782457f6-0725-46b1-a8ef-b2cc6507b683.png)
 
 
+• "Node1" Sunucumuzda "SQL Server 2019" kurulumu yaparken "Active Directory Domain Services" & "Active Directory Web Services" servislerini "Disable" a çekmemiz gerekiyor yoksa "Always On" özelliğini devreye alamayız !
+
+• When installing SQL Server 2019 on our "Node1" server, we need to disable the "Active Directory Domain Services" and "Active Directory Web Services" services, otherwise we won't be able to activate the "Always On" feature.
+
+
+![image](https://user-images.githubusercontent.com/93924485/231206866-9709f727-29bb-4585-b273-fb56e060c6d6.png)
+
+
+
 
 
 
