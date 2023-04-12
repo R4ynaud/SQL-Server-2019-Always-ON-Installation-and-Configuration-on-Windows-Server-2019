@@ -669,9 +669,11 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/231489083-5d210680-d5c2-4612-a801-767068eb40fb.png)
 
 
+### 10-) "Backup Preferences" sekmesinde birden fazla seçenek vardır, bunları kısaca açıklamamızda yarar var. Buradaki seçim size kalmış. Kurulumumda "Primary" seçeneğini seçiyorum. 
+###      There are several options in the "Backup Preferences" tab that we should briefly explain. The choice here is up to you. In my setup, I am choosing the "Primary" option.
 
 
-
+![image](https://user-images.githubusercontent.com/93924485/231492176-8f604ebb-f8d7-49ad-9f19-f2c2732784ad.png)
 
 
 
