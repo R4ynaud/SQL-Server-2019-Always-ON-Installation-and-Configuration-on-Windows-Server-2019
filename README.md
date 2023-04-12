@@ -615,6 +615,34 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/231478615-fa7c5a13-8c63-4f52-a841-4c97ef7c7355.png)
 
 
+• "Next" e tıklayın.
+
+• Click on "Next"
+
+
+![image](https://user-images.githubusercontent.com/93924485/231479128-1a47ab54-cf2e-4b0c-a9db-9eb72a35a15c.png)
+
+
+### 5-) Biz  "Windows Failover Cluster" kullanacağımız için seçimimizi bu şekilde ayarlayarak "Windows Server Failover Cluster" seçimini yapıyoruz.
+###     We are choosing "Windows Server Failover Cluster" option by setting our selection in this way, as we will be using "Windows Failover Cluster".
+
+
+![image](https://user-images.githubusercontent.com/93924485/231480204-6c987d38-a4a7-4ae3-87bd-68d5ab04721d.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
