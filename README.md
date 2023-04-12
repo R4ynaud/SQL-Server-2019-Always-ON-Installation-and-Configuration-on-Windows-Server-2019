@@ -652,9 +652,9 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/231485495-853016d3-6f65-42ed-ab12-9a18fd31960e.png)
 
 
+![image](https://user-images.githubusercontent.com/93924485/231485845-69efdf36-146f-4850-8357-aaba759f2026.png)
 
 
-![image](https://user-images.githubusercontent.com/93924485/231481192-001f9336-083c-48bb-b42c-18f4ea9e9fcb.png)
 
 
 
