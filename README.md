@@ -745,6 +745,10 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/231503625-8cc7f662-e160-4622-a653-6d37f28221fb.png)
 
 
+### 13-) Ve kurulumun sonuna geldik, kurulum sorunsuz tamamlandı ise aşağıdaki gibi bir ekran çıktısı almanız gerekiyor bunun dışında "Node2" veritabanından "Node3" veritabanına sorunsuz login olmanız gerekiyor.
+###      We have reached the end of the installation process. If the installation has completed successfully, you should see a screen output like the one below. Additionally, you should be able to login from "Node2" database to "Node3" database without any issues.
+
+
 ![image](https://user-images.githubusercontent.com/93924485/231603359-14d022f2-94ff-4d21-ae89-8ec8616568d0.png)
 
 
