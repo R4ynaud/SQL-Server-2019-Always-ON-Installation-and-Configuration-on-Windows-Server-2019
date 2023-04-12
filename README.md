@@ -608,8 +608,11 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/231206866-9709f727-29bb-4585-b273-fb56e060c6d6.png)
 
 
+### 4-) "Node 2" sunucumuz üzerindeki SQL veritabanına "SQL Management Studio" ile bağlanalım ve "Always On High Availability" sekmesine tıklayalım, altında "Availability Groups" sekmesi sorunsuzca açılıyor. Bu sekme üzerinde sağ tıklayarak "New Availability Group Wizard…"  sekmesine tıklayarak artık "Always On" konfigürasyonunu başlatabiliriz. 
+###     Let's connect to the SQL database on our "Node 2" server using "SQL Management Studio" and click on the "Always On High Availability" tab. The "Availability Groups" tab opens smoothly. Right-click on this tab and click on the "New Availability Group Wizard..." tab to start configuring "Always On".
 
 
+![image](https://user-images.githubusercontent.com/93924485/231478615-fa7c5a13-8c63-4f52-a841-4c97ef7c7355.png)
 
 
 
