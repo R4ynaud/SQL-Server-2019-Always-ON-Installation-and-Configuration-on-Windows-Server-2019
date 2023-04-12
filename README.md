@@ -639,6 +639,21 @@ As we are setting up a domain structure for the first time, we will proceed with
 • ![image](https://user-images.githubusercontent.com/93924485/231482793-7377fc11-c6f6-43af-8820-332283d64973.png)
 
 
+### 7-) Yedekleme işlemini gerçekleştirmek için ana konsolda veritabanına sağ tıklayıp "Tasks" seçeneğine tıklayın ve ardından 'Backup' menüsüne tıklayın.
+###     To perform the backup process, right-click on the database in the main console, click on "Tasks", and then click on "Backup" menu.
+
+
+![image](https://user-images.githubusercontent.com/93924485/231484658-f3080893-e528-4a1e-a469-1ea03a3d9b1f.png)
+
+
+![image](https://user-images.githubusercontent.com/93924485/231485330-b460fbb0-eee0-4ecc-954d-f22c54eb49fc.png)
+
+
+![image](https://user-images.githubusercontent.com/93924485/231485495-853016d3-6f65-42ed-ab12-9a18fd31960e.png)
+
+
+
+
 ![image](https://user-images.githubusercontent.com/93924485/231481192-001f9336-083c-48bb-b42c-18f4ea9e9fcb.png)
 
 
