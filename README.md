@@ -728,10 +728,18 @@ As we are setting up a domain structure for the first time, we will proceed with
 ###      We need to determine how the initial synchronization of the database on the secondary server will be performed in the "Select Initial Data Synchronization" screen. Generally, if we explain the options here;
 
 
+• Biz otomatik olarak işlemlerin gerçekleşmesi için "Automatic seeding" seçeneğini seçerek Next ile ilerliyoruz.
+
+• We select the "Automatic seeding" option for the automatic processing and proceed with Next.
 
 
+![image](https://user-images.githubusercontent.com/93924485/231503358-ea159819-c90f-41e6-9565-989ada60ecb7.png)
 
 
+![image](https://user-images.githubusercontent.com/93924485/231503479-b5b4e4d1-ff9d-48ac-9f8e-0a120ad78c03.png)
+
+
+![image](https://user-images.githubusercontent.com/93924485/231503625-8cc7f662-e160-4622-a653-6d37f28221fb.png)
 
 
 
