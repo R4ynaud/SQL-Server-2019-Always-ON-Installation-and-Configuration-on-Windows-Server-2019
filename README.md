@@ -630,10 +630,16 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/231480204-6c987d38-a4a7-4ae3-87bd-68d5ab04721d.png)
 
 
+### 6-) İşlemlere başlamadan önce işlem yapılacak olan database özelliğinin "Full Recovery Mode" yapısında olması isteniyor. Bu gereksinimi yerine getirmeden ilerleyemeyiz. Bu demek oluyor ki Always On mimarisi içerisine girerek olan database "Full Recovery Mode" yapısında olmak zorunda. Bunun için aşağıdaki adımları izleyin.
+###     Before starting the process, it is required that the database to be processed is in "Full Recovery Mode". We cannot proceed without meeting this requirement. This means that the database within the Always On architecture must be in "Full Recovery Mode". Follow the steps below to achieve this.
 
 
+• ![image](https://user-images.githubusercontent.com/93924485/231482439-85b7ee38-a5bd-4ca5-b082-acffac2bf915.png)
+
+• ![image](https://user-images.githubusercontent.com/93924485/231482793-7377fc11-c6f6-43af-8820-332283d64973.png)
 
 
+![image](https://user-images.githubusercontent.com/93924485/231481192-001f9336-083c-48bb-b42c-18f4ea9e9fcb.png)
 
 
 
