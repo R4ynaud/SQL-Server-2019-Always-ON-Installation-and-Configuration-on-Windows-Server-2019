@@ -676,6 +676,49 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/231492176-8f604ebb-f8d7-49ad-9f19-f2c2732784ad.png)
 
 
+• Prefer Secondary : Availability Group yapısı içinde aktif olarak yapılandırmış olduğunuz Secondary sunucu olması durumunda otomatik olarak alının yedekler, Secondary sunucusu üzerinden gerçekleşir. Ortamda aktif bir Secondary sunucu bulunmuyor ise "Primary" sunucusu üzerinden gerçekleşir.
+
+
+• Prefer Secondary: If you have configured an active secondary server within the Availability Group structure, backups are automatically taken from the secondary server. If there is no active secondary server in the environment, backups are taken from the "Primary" server.
+
+
+• Secondary only : Availability Group yapısı içinde bütün otomatik yedekler Secondary sunucusu üzerinden gerçekleşmek durumundadır.
+
+
+• Secondary Only: All automatic backups within the Availability Group structure must be performed from the secondary server.
+
+
+• Primary : Availability Group yapısı içinde bütün otomatik yedekler Primary sunucusu üzerinden gerçekleşmek durumundadır.
+
+
+• Primary: All automatic backups within the Availability Group structure must be performed from the primary server.
+
+
+• Any Replica : Availability Group yapısı içinde yedekler Primary ve Secondary sunucularınız üzerinden alınabilir durumdadır.
+
+
+• Any Replica: Backups within the Availability Group structure can be taken from both your primary and secondary servers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
