@@ -659,10 +659,14 @@ As we are setting up a domain structure for the first time, we will proceed with
 ###     We will complete our settings on this screen. Therefore, I will try to explain the relevant fields as much as necessary. In the "Replicas" tab, the "Server Instance" field detects our server named "Node2" as the primary. Click the "Add Replica..." button to add our "Node3" server.
 
 
-![image](https://user-images.githubusercontent.com/93924485/231487815-75029803-31e9-46c9-960d-c8bb69322a2f.png)
+![image](https://user-images.githubusercontent.com/93924485/231488145-98487214-ffb1-42eb-8d5e-61ca0a47df91.png)
 
 
+### 9-) "Endpoints" sekmesinde sunucuların haberleşme bilgilerini bulunur. Burada gördüğümüz port bilgilerini değiştirebiliriz ancak biz varsayılan portları bırakıyoruz. Güvenlik duvarlarının aktif olduğu alanlarda bu portlara izin vermemiz gerekmektedir. Varsayılan olarak 5022 portu kullanılır.
+###     The "Endpoints" tab contains the communication information of the servers. We can change the port information we see here, but we are leaving the default ports. In areas where firewalls are active, we need to allow access to these ports. The default port used is 5022.
 
+
+![image](https://user-images.githubusercontent.com/93924485/231489083-5d210680-d5c2-4612-a801-767068eb40fb.png)
 
 
 
