@@ -715,7 +715,17 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/231499872-fb9032b3-0ea4-4a2e-92e9-f78c3900dbfb.png)
 
 
+![image](https://user-images.githubusercontent.com/93924485/231500450-96fda927-cc8c-4990-851a-3b78b5a45a6f.png)
 
+
+![image](https://user-images.githubusercontent.com/93924485/231500684-199b1d75-95ba-44bb-9695-39f896d75ec3.png)
+
+
+![image](https://user-images.githubusercontent.com/93924485/231501507-537b9699-6463-427b-9d72-681ff2fa7a06.png)
+
+
+### 12-) "Select Initial Data Synchronization" ekranın da Secondary sunucusu üzerine veritabanının ilk senkronizasyonun nasıl yapılacağını belirlememiz gerekiyor. Buradaki seçenekleri genel olarak açıklayacak olursak;
+###      We need to determine how the initial synchronization of the database on the secondary server will be performed in the "Select Initial Data Synchronization" screen. Generally, if we explain the options here;
 
 
 
