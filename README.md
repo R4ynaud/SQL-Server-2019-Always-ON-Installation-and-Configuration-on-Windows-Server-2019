@@ -655,9 +655,11 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/231485845-69efdf36-146f-4850-8357-aaba759f2026.png)
 
 
+### 8-) Bu ekranda ayarlarımızı tamamlayacağız. Bu nedenle ilgili alanları gerektiği kadar açıklamaya çalışacağım. "Replicas" sekmesinde "Server Instance" alanında "Node2" isimli sunucumuzu adlı sunucumuzu birincil olarak algılar. "Add Replica…" butonuna tıklayarak "Node3" sunucumuzu ekleyelim.
+###     We will complete our settings on this screen. Therefore, I will try to explain the relevant fields as much as necessary. In the "Replicas" tab, the "Server Instance" field detects our server named "Node2" as the primary. Click the "Add Replica..." button to add our "Node3" server.
 
 
-
+![image](https://user-images.githubusercontent.com/93924485/231487815-75029803-31e9-46c9-960d-c8bb69322a2f.png)
 
 
 
