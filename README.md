@@ -745,6 +745,7 @@ As we are setting up a domain structure for the first time, we will proceed with
 ![image](https://user-images.githubusercontent.com/93924485/231503625-8cc7f662-e160-4622-a653-6d37f28221fb.png)
 
 
+![image](https://user-images.githubusercontent.com/93924485/231601819-7867e7fb-88c1-4693-891d-c377092ec50f.png)
 
 
 
