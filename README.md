@@ -700,6 +700,22 @@ As we are setting up a domain structure for the first time, we will proceed with
 • Any Replica: Backups within the Availability Group structure can be taken from both your primary and secondary servers.
 
 
+### 11-) "Create an availability group listener"  kutucuğunu tıklayarak bir listener tanımlaması yapalım. DNS Name olarak "Node2" port olarak varsayılan port 1433 bilgisini girip "Add.."  butonuna tıklıyoruz.
+###      Let's define a listener by clicking on the "Create an availability group listener" checkbox. We will enter "Node2" as the DNS Name and the default port of 1433 as the port. Then, we click on the "Add.." button.
+
+
+![image](https://user-images.githubusercontent.com/93924485/231499774-b237f1eb-f2b9-491c-b3bc-2b280b32ee9a.png)
+
+
+• Uygun ve boşta olan aynı bloktan "192.168.152.122"  ip adresini giriyorum. "OK" ile bu adımı onaylıyorum.
+ 
+• I am assuming that you are assigning the IP address of "192.168.152.122" to the listener. In that case, you would enter this IP address in the appropriate field and click "OK" to confirm this step.
+
+
+![image](https://user-images.githubusercontent.com/93924485/231499872-fb9032b3-0ea4-4a2e-92e9-f78c3900dbfb.png)
+
+
+
 
 
 
