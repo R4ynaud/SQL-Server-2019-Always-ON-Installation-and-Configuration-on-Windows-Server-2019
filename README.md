@@ -1,4 +1,4 @@
-# SQL-Server-2019-Always-On-Installation-&-Configuration-on-Windows-Server-2019
+# SQL-Server-2019-Always-On-Installation-&-Configuration-(High Availability)-on-Windows-Server-2019
 
 ![image](https://user-images.githubusercontent.com/93924485/230014292-886f202b-4011-4b76-bddd-4037dfba9dbf.png)
 
