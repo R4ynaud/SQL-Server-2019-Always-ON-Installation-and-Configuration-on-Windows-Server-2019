@@ -443,9 +443,9 @@ As we are setting up a domain structure for the first time, we will proceed with
 
 • Before creating the cluster, we need to run the following command on "Windows PowerShell".
 
-
-> Clear-ClusterNode -Name "Server name or ip "
-
+```
+ Clear-ClusterNode -Name "Server name or ip "
+```
 
 ![image](https://user-images.githubusercontent.com/93924485/230718198-d328229e-b790-4725-937f-5548fed5c3d3.png)
 
@@ -711,9 +711,9 @@ As we are setting up a domain structure for the first time, we will proceed with
  
 • I am assuming that you are assigning the IP address of "192.168.152.122" to the listener. In that case, you would enter this IP address in the appropriate field and click "OK" to confirm this step.
 
-
-> Test-Connection 192.168.152.122 -Quiet
-
+```
+ Test-Connection 192.168.152.122 -Quiet
+```
 
 ![image](https://user-images.githubusercontent.com/93924485/231499872-fb9032b3-0ea4-4a2e-92e9-f78c3900dbfb.png)
 
