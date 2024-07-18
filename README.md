@@ -555,6 +555,33 @@ As we are setting up a domain structure for the first time, we will proceed with
 # Nihayet sıra geldi SQL Always On mimarisini devreye almaya !
 # Finally, it's time to implement the SQL Always On architecture !
 
+# Always On Mimarisini Devreye Almadan Önce Servisleri ve ağı bu şekilde yapılandırmayı unutmayın !
+# Do not forget to configure the services and network in this manner before deploying the Always On Architecture!
+
+![image](https://github.com/user-attachments/assets/52300ef6-5d70-4e91-8c7e-32797c2c1f48)
+
+
+![image](https://github.com/user-attachments/assets/1eae27f6-ad32-4801-88ea-77d64d28a4bc)
+
+
+![image](https://github.com/user-attachments/assets/1ec8abef-d5cf-44d7-b3c8-ef9ce2461213)
+
+
+![image](https://github.com/user-attachments/assets/eec3a86c-110b-45b0-9fb8-ac5b569ff1f1)
+
+
+![image](https://github.com/user-attachments/assets/d8f5a4bf-841b-4c0a-ba66-547bdaf0c533)
+
+
+![image](https://github.com/user-attachments/assets/68f11ab8-32d3-497c-93e6-e97dacecedcf)
+
+
+![image](https://github.com/user-attachments/assets/4c5182ed-dffc-45aa-a9d4-84ab04549323)
+
+
+
+
+
 
 ### • "Node1" sunucusunda "Failover Cluster Manager" üzerinde "Raynaud" adında yeni bir cluster oluşturarak ve "Node2" & "Node3" isimli sunucularımızı cluster ortamına dahil ettik. Always On mimarisi yapılandırma adımları öncesinde birkaç ön hazırlık yapmamız gerekiyor.
 ### • Before configuring the Always On architecture, we need to make a few preparations. We have created a new cluster named "Raynaud" on the "Node1" server using the "Failover Cluster Manager" and added our servers named "Node2" and "Node3" to the cluster environment.
